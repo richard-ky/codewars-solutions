@@ -3,6 +3,7 @@ basically what this does is combine consecutive repeated digits
 66644319333 becomes [18][8]319[9]
 1883199 becomes 1[16]31[18]
 1163118 becomes [2]63[2]8
+final result is 26328
 '''
 
 numbers = "66644319333"
